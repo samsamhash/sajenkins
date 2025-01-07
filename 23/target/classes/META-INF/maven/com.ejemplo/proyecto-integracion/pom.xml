@@ -10,7 +10,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- Agregar el token de SonarQube en las propiedades (considera usar variables de entorno para mayor seguridad) -->
-        <sonar.login>5395728f340a49082335f8b6850b652731583d79</sonar.login> <!-- Cambiar por variable de entorno en Jenkins para seguridad -->
+        <sonar.login>squ_e5ee718a5c75117bff462684bea0be3f71027854</sonar.login> <!-- Cambiar por variable de entorno en Jenkins para seguridad -->
     </properties>
 
     <dependencies>
