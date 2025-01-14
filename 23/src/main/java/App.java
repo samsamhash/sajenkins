@@ -3,7 +3,7 @@
 public class App {
     
 
-	public String saludo(String nombre) {
+	public String saludo(jjj nombre) {
 		return "Hola, " + nombre + "!";
 		
 	}
