@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "nombre": "Maratón Ciudad de México 2025",
+        "descripcion": "Una de las maratones más importantes de América Latina.",
+        "categoria": "Fondo",
+        "fecha": "2025-04-15T08:00:00",
+        "estado": "Programado",
+        "imagenes": ["maraton-cdmx.jpg"],
+        "web": "https://maratoncdmx.com",
+        "ubicacion": "Ciudad de México, México",
+        "favorito": false
+    },
+    {
+        "id": "2",
+        "nombre": "100m Planos Final Masculina",
+        "descripcion": "Competencia de velocidad máxima.",
+        "categoria": "Velocidad",
+        "fecha": "2025-04-16T14:30:00",
+        "estado": "Programado",
+        "imagenes": ["100m-final.jpg"],
+        "web": "https://atletismo2025.com/100m-final",
+        "ubicacion": "Estadio Nacional, Ciudad de México",
+        "favorito": false
+    }
+]
