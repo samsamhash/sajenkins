@@ -8,7 +8,6 @@
         "estado": "Programado",
         "imagenes": ["maraton-cdmx.jpg"],
         "web": "https://maratoncdmx.com",
-        "ubicacion": "Ciudad de México, México",
         "favorito": false
     },
     {
@@ -20,7 +19,6 @@
         "estado": "Programado",
         "imagenes": ["100m-final.jpg"],
         "web": "https://atletismo2025.com/100m-final",
-        "ubicacion": "Estadio Nacional, Ciudad de México",
         "favorito": false
     }
 ]
